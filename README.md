@@ -5,7 +5,7 @@ Corona virus tracking
 ## Getting Started
 
 These instructions will include feature view confirmed, recovered and deaths for covid-19 by country in daily
-This app use React (hook), Chart.js, Material UI, webpack
+. This app use React (hook), Chart.js, Material UI, webpack
 
 ### Prerequisites
 
