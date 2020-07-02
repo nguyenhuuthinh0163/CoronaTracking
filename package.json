@@ -1,39 +1,39 @@
 {
-  "name": "reactdemo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.19.2",
-    "react": "^16.13.1",
-    "react-countup": "^4.3.3",
-    "react-dom": "^16.13.1"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
-    "@babel/preset-react": "^7.9.4",
-    "@material-ui/core": "^4.10.2",
-    "autoprefixer": "^9.7.6",
-    "babel-loader": "^8.1.0",
-    "babel-polyfill": "^6.26.0",
-    "babel-preset-react": "^6.24.1",
-    "chart.js": "^2.9.3",
-    "classnames": "^2.2.6",
-    "clean-webpack-plugin": "^3.0.0",
-    "css-loader": "^3.6.0",
-    "html-webpack-plugin": "^4.2.0",
-    "react-chartjs-2": "^2.9.0",
-    "style-loader": "^1.2.1",
-    "url-loader": "^4.1.0",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
-  }
+	"name": "reactdemo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "webpack-dev-server --mode development --open --hot",
+		"build": "webpack --mode production"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"react": "^16.13.1",
+		"react-countup": "^4.3.3",
+		"react-dom": "^16.13.1"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.9.0",
+		"@babel/preset-env": "^7.9.5",
+		"@babel/preset-react": "^7.9.4",
+		"@material-ui/core": "^4.10.2",
+		"autoprefixer": "^9.7.6",
+		"babel-loader": "^8.1.0",
+		"babel-polyfill": "^6.26.0",
+		"babel-preset-react": "^6.24.1",
+		"chart.js": "^2.9.3",
+		"classnames": "^2.2.6",
+		"clean-webpack-plugin": "^3.0.0",
+		"css-loader": "^3.6.0",
+		"html-webpack-plugin": "^4.2.0",
+		"react-chartjs-2": "^2.9.0",
+		"style-loader": "^1.2.1",
+		"url-loader": "^4.1.0",
+		"webpack": "^4.42.1",
+		"webpack-cli": "^3.3.11",
+		"webpack-dev-server": "^3.10.3"
+	}
 }
